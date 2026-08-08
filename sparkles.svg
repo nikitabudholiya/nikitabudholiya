@@ -1,0 +1,30 @@
+<svg width="700" height="40" viewBox="0 0 700 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .spark { fill: #EBF9E6; transform-origin: center; animation: twinkle 1.8s ease-in-out infinite; }
+    .s1 { animation-delay: 0s; }
+    .s2 { animation-delay: 0.3s; }
+    .s3 { animation-delay: 0.6s; }
+    .s4 { animation-delay: 0.9s; }
+    .s5 { animation-delay: 1.2s; }
+    .s6 { animation-delay: 1.5s; }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.15; transform: scale(0.6); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+    .line { stroke: #2E7D46; stroke-width: 1; opacity: 0.5; }
+  </style>
+  <line x1="0" y1="20" x2="270" y2="20" class="line" />
+  <line x1="430" y1="20" x2="700" y2="20" class="line" />
+  <g transform="translate(300,20)">
+    <path class="spark s1" d="M0,-10 L2.5,-2.5 L10,0 L2.5,2.5 L0,10 L-2.5,2.5 L-10,0 L-2.5,-2.5 Z" />
+  </g>
+  <g transform="translate(335,12)">
+    <path class="spark s3" d="M0,-6 L1.5,-1.5 L6,0 L1.5,1.5 L0,6 L-1.5,1.5 L-6,0 L-1.5,-1.5 Z" />
+  </g>
+  <g transform="translate(365,26)">
+    <path class="spark s5" d="M0,-7 L1.8,-1.8 L7,0 L1.8,1.8 L0,7 L-1.8,1.8 L-7,0 L-1.8,-1.8 Z" />
+  </g>
+  <g transform="translate(400,18)">
+    <path class="spark s2" d="M0,-9 L2.2,-2.2 L9,0 L2.2,2.2 L0,9 L-2.2,2.2 L-9,0 L-2.2,-2.2 Z" />
+  </g>
+</svg>

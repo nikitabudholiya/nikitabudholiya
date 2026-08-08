@@ -22,7 +22,7 @@ Perpetually curious — new tool, new paper, new framework, I'd rather break it 
 
 **🔭 What I'm working on right now**
 
-Multi-agent orchestration and context engineering — designing what an agent sees at each step so it stays accurate instead of drifting. That means MCP-based tool integration, agent evals to catch regressions before they hit production, and the observability (Datadog MCP) to trust what these systems do when no one's watching.
+Multi-agent orchestration and context engineering — designing what an agent sees at each step so it stays accurate instead of drifting. That means MCP-based tool integration, agent evals to catch regressions before they hit production, and the observability (Grafana) to trust what these systems do when no one's watching.
 
 **✍️ I write**
 

@@ -14,19 +14,19 @@
 
 🎓 Graduated from **IIT Bombay '25** (M.Tech): Worked on a CNN-LSTM flood prediction model hitting 92% recall with a 68-hour lead time.
 
-🚀 Currently at **NexusOne**, a startup, where I own an enterprise AIOps platform end-to-end — built on GPT + RAG + LangGraph + CrewAI — and led the migration of 650+ ETL workflows from Hive to Iceberg. I work across data, platform, and product teams to get this shipped, not just build in isolation.
+🚀 Currently at **NexusOne**, a startup, where I own an enterprise AIOps platform end-to-end - built on GPT + RAG + LangGraph + CrewAI - and led the migration of 650+ ETL workflows from Hive to Iceberg. I work across data, platform, and product teams to get this shipped, not just build in isolation.
 
-Perpetually curious — new tool, new paper, new framework, I'd rather break it in a sandbox by Friday than just read about it. 🌱
+Perpetually curious - new tool, new paper, new framework, I'd rather break it in a sandbox by Friday than just read about it. 🌱
 
 ---
 
 **🔭 What I'm working on right now**
 
-Multi-agent orchestration and context engineering — designing what an agent sees at each step so it stays accurate instead of drifting. That means MCP-based tool integration, agent evals to catch regressions before they hit production, and the observability (Datadog MCP) to trust what these systems do when no one's watching.
+Multi-agent orchestration and context engineering - designing what an agent sees at each step so it stays accurate instead of drifting. That means MCP-based tool integration, agent evals to catch regressions before they hit production, and the observability (Datadog MCP) to trust what these systems do when no one's watching.
 
 **✍️ I write**
 
-Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](https://medium.com/@nikitacbudholiya), plus open DM mentorship on Topmate.
+Technical breakdowns on RAG, MCP, and FastAPI - on [Medium](https://medium.com/@nikitacbudholiya), plus open DM mentorship on Topmate.
 
 **🛠️ Stack**
 

@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2E7D46&height=180&section=header&text=Hi,%20I'm%20☀️%20Nikita%20Budholiya&fontSize=36&fontColor=EBF9E6&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2E7D46&height=180&section=header&text=Hi,%20I'm%20Nikita%20Budholiya%20☀️&fontSize=32&fontColor=EBF9E6&animation=twinkling&fontAlignY=38" />
 </p>
 
-<p align="center">✨ 🌿 ✨</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikitabudholiya/nikitabudholiya/main/sparkles.svg" width="500" />
+</p>
 
 <p align="center">
   <a href="https://github.com/nikitabudholiya">
@@ -10,19 +12,16 @@
   </a>
 </p>
 
-IIT Bombay (M.Tech) → currently shipping an enterprise AIOps platform on GPT + RAG + LangGraph + CrewAI, and migrated 650+ ETL workflows from Hive to Iceberg along the way.
+🎓 Graduated from **IIT Bombay '25** (M.Tech) — thesis: a CNN-LSTM flood prediction model hitting 92% recall with a 68-hour lead time.
 
-I like owning things end-to-end — from 0-to-1 prototyping to production-grade systems, not just the model, but the pipeline, infra, and observability around it.
+🚀 Currently at **NexusOne**, a startup, where I own an enterprise AIOps platform end-to-end — built on GPT + RAG + LangGraph + CrewAI — and led the migration of 650+ ETL workflows from Hive to Iceberg. I work across data, platform, and product teams to get this shipped, not just build in isolation.
 
 Perpetually curious — new tool, new paper, new framework, I'd rather break it in a sandbox by Friday than just read about it. 🌱
 
 ---
 
 **🔭 What I'm working on right now**
-Agentic AI systems that don't just answer questions but take action — RAG pipelines, multi-agent orchestration with LangGraph/CrewAI, and the FastAPI + FAISS + Datadog MCP infra that keeps them observable in production.
-
-**🎓 Before this**
-CNN-LSTM flood prediction model for my M.Tech thesis at IIT Bombay — 92% recall, 68-hour lead time. Water resources meets deep learning.
+Multi-agent orchestration and context engineering — designing what an agent sees at each step so it stays accurate instead of drifting. That means MCP-based tool integration, agent evals to catch regressions before they hit production, and the observability (Datadog MCP) to trust what these systems do when no one's watching.
 
 **✍️ I write**
 Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](https://medium.com/@nikitacbudholiya), plus open DM mentorship on Topmate.

@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2E7D46&height=180&section=header&text=Hi,%20I'm%20Nikita&fontSize=42&fontColor=EBF9E6&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2E7D46&height=180&section=header&text=Hi,%20I'm%20☀️%20Nikita%20Budholiya&fontSize=36&fontColor=EBF9E6&animation=twinkling&fontAlignY=38" />
 </p>
+
+<p align="center">✨ 🌿 ✨</p>
 
 <p align="center">
   <a href="https://github.com/nikitabudholiya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBE8C&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+RAG+%2B+Agentic+AI+Systems;IIT+Bombay+M.Tech+%E2%80%94+Water+Resources+%2B+Deep+Learning;Building+production-grade+AI+infra%2C+end-to-end" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBE8C&center=true&vCenter=true&width=600&lines=Data+%26+AI+Engineer;RAG+%2B+Agentic+AI+Systems;IIT+Bombay+M.Tech+%E2%80%94+Water+Resources+%2B+Deep+Learning;Building+production-grade+AI+infra%2C+end-to-end" />
   </a>
 </p>
 
 IIT Bombay (M.Tech) → currently shipping an enterprise AIOps platform on GPT + RAG + LangGraph + CrewAI, and migrated 650+ ETL workflows from Hive to Iceberg along the way.
 
 I like owning things end-to-end — from 0-to-1 prototyping to production-grade systems, not just the model, but the pipeline, infra, and observability around it.
+
+Perpetually curious — new tool, new paper, new framework, I'd rather break it in a sandbox by Friday than just read about it. 🌱
 
 ---
 
@@ -26,7 +30,12 @@ Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](https://medium.com
 **🛠️ Stack**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,docker,kubernetes,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,aws,docker,kubernetes,grafana,git&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-2E7D46?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 **📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/nikita-budholiya-4a1b9121a/) · [Medium](https://medium.com/@nikitacbudholiya)
@@ -41,7 +50,7 @@ Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](https://medium.com
   </picture>
 </p>
 
-<sub>Currently open to ML/AI engineering roles where I get to build models, not just maintain pipelines.</sub>
+<sub>✨ Currently open to Data & AI engineering roles where I get to build models, not just maintain pipelines. ✨</sub>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D46,100:000000&height=100&section=footer" />

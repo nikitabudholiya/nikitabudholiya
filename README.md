@@ -21,9 +21,11 @@ Perpetually curious — new tool, new paper, new framework, I'd rather break it 
 ---
 
 **🔭 What I'm working on right now**
+
 Multi-agent orchestration and context engineering — designing what an agent sees at each step so it stays accurate instead of drifting. That means MCP-based tool integration, agent evals to catch regressions before they hit production, and the observability (Datadog MCP) to trust what these systems do when no one's watching.
 
 **✍️ I write**
+
 Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](https://medium.com/@nikitacbudholiya), plus open DM mentorship on Topmate.
 
 **🛠️ Stack**
@@ -37,7 +39,14 @@ Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](https://medium.com
   <img src="https://img.shields.io/badge/Statistics-2E7D46?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-**📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/nikita-budholiya-4a1b9121a/) · [Medium](https://medium.com/@nikitacbudholiya)
+**📫 Reach me**
+
+<p>
+  <a href="https://your-portfolio-link.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2E7D46?style=for-the-badge&logo=vercel&logoColor=EBF9E6" /></a>
+  <a href="https://www.linkedin.com/in/nikita-budholiya-4a1b9121a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@nikitacbudholiya"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:nikitacbudholiya@gmail.com"><img src="https://img.shields.io/badge/Email-EBF9E6?style=for-the-badge&logo=gmail&logoColor=2E7D46" /></a>
+</p>
 
 ---
 

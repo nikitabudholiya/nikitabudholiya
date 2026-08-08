@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/nikitabudholiya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBE8C&center=true&vCenter=true&width=600&lines=Data+%26+AI+Engineer;RAG+%2B+Agentic+AI+Systems; IIT+Bombay+M.Tech+%E2%80%94+Water+Resources+%2B+Deep+Learning;Building+production-grade+AI+infra%2C+end-to-end" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBE8C&center=true&vCenter=true&width=600&lines=Data+%26+AI+Engineer;RAG+%2B+Agentic+AI+Systems;IIT+Bombay+M.Tech+%E2%80%94+Water+Resources+%2B+Deep+Learning;Building+production-grade+AI+infra%2C+end-to-end" />
   </a>
 </p>
 

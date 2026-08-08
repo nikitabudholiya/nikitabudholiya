@@ -12,7 +12,7 @@
   </a>
 </p>
 
-🎓 Graduated from **IIT Bombay '25** (M.Tech) — thesis: a CNN-LSTM flood prediction model hitting 92% recall with a 68-hour lead time.
+🎓 Graduated from **IIT Bombay '25** (M.Tech): Worked on a CNN-LSTM flood prediction model hitting 92% recall with a 68-hour lead time.
 
 🚀 Currently at **NexusOne**, a startup, where I own an enterprise AIOps platform end-to-end — built on GPT + RAG + LangGraph + CrewAI — and led the migration of 650+ ETL workflows from Hive to Iceberg. I work across data, platform, and product teams to get this shipped, not just build in isolation.
 

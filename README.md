@@ -20,11 +20,8 @@ Agentic AI systems that don't just answer questions but take action — RAG pipe
 **🎓 Before this**
 CNN-LSTM flood prediction model for my M.Tech thesis at IIT Bombay — 92% recall, 68-hour lead time. Water resources meets deep learning.
 
-**📌 Featured**
-- **[yt-summarizer](https://github.com/nikitabudholiya/yt-summarizer)** — Chrome extension that summarizes any YouTube video using RAG (LangChain + FAISS + HuggingFace embeddings), served via FastAPI, powered by Groq llama3.
-
 **✍️ I write**
-Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](#) and open DM mentorship on [Topmate](#).
+Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](https://medium.com/@nikitacbudholiya), plus open DM mentorship on Topmate.
 
 **🛠️ Stack**
 
@@ -32,7 +29,7 @@ Technical breakdowns on RAG, MCP, and FastAPI — on [Medium](#) and open DM men
   <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,docker,kubernetes,git&theme=dark" />
 </p>
 
-**📫 Reach me:** [LinkedIn](#) · [Medium](#) · [Topmate](#)
+**📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/nikita-budholiya-4a1b9121a/) · [Medium](https://medium.com/@nikitacbudholiya)
 
 ---
 

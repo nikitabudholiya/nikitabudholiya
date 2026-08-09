@@ -26,7 +26,7 @@ Multi-agent orchestration and context engineering - designing what an agent sees
 
 **✍️ I write**
 
-Technical breakdowns on RAG, MCP, and FastAPI - on [Medium](https://medium.com/@nikitacbudholiya), plus open DM mentorship on Topmate.
+Technical breakdowns on RAG, MCP, and FastAPI - on [Medium](https://medium.com/@nikitacbudholiya)
 
 **🛠️ Stack**
 
